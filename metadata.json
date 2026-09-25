@@ -1,0 +1,6 @@
+{
+  "name": "Patch 520: A Developer's Apology",
+  "description": "A romantic, cinematic interactive apology and love letter coded specifically with love, care, and commitment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
